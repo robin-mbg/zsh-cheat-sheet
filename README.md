@@ -15,3 +15,6 @@ ls -a #List all files
 ### Dependencies
 - fzf
 - awk
+
+### Inspired by
+[Apply Tags To Linux Commands To Easily Retrieve Them From History](https://www.ostechnix.com/apply-tags-to-linux-commands-to-easily-retrieve-them-from-history/)
